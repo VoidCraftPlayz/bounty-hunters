@@ -1,0 +1,9 @@
+main: com.voidcraftplays.bountyhunters.Main
+version: 1.0
+name: BountyHunters
+depend: [Vault]
+commands: 
+  bounty:
+    help: The central command for all things bounty related.
+    aliases: [bh, bountyhunters]
+    

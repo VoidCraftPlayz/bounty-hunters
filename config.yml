@@ -1,0 +1,11 @@
+hunters:
+  Cybil:
+    jobs-completed: 0
+    bounty-coins: 0
+jobs:
+  Raticate:
+    prize: 15000
+    completed: false
+    attacker: Cybil
+players-joined:
+jobsList:
